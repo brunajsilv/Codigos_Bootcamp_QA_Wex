@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 //Criaçao de classe calculadora
 
 //Operacões mtématicas
-namespace Codigos.src.Calculadora
+namespace Codigos.ProgramaCalculadora
 {
     public class Calculadora
     {
