@@ -1,0 +1,15 @@
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.AssemblyInfoInputs.cache
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.AssemblyInfo.cs
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.csproj.CoreCompileInputs.cache
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.sourcelink.json
+C:\Bootcamp\CSharp\Codigos\bin\Debug\net8.0\Codigos.exe
+C:\Bootcamp\CSharp\Codigos\bin\Debug\net8.0\Codigos.deps.json
+C:\Bootcamp\CSharp\Codigos\bin\Debug\net8.0\Codigos.runtimeconfig.json
+C:\Bootcamp\CSharp\Codigos\bin\Debug\net8.0\Codigos.dll
+C:\Bootcamp\CSharp\Codigos\bin\Debug\net8.0\Codigos.pdb
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.dll
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\refint\Codigos.dll
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.pdb
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\Codigos.genruntimeconfig.cache
+C:\Bootcamp\CSharp\Codigos\obj\Debug\net8.0\ref\Codigos.dll
